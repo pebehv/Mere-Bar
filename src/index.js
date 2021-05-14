@@ -1,24 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-
-
-
-// import './index.css';
-// import App from './App';
-// import reportWebVitals from './reportWebVitals';
-import 'bootstrap/dist/css/bootstrap.css';
-
-import MereBat from './page/MereBat';
-
-ReactDOM.render(
-	
-  <MereBat/>,
-  document.getElementById('root')
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-
-
- //reportWebVitals();
+version https://git-lfs.github.com/spec/v1
+oid sha256:aecc263bfc7284dd97fdf8a0348cf2df520d25a2ec802887b1a5d65d2f38b22a
+size 559

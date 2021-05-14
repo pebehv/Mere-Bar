@@ -1,32 +1,3 @@
-import React,  {Component} from 'react';
-import{ ModalBody}from 'react-bootstrap';
-import './style/modalMenu.css';
-
-class ModalMenu extends Component {
-	render(){
-		const {img, titleSecond, precio} =this.props
-		return(
-			<>
-				<ModalBody>
-					<div>
-					<div className=" cardMenuModal" >
-						<div className='cont-img'>
-							<img className='img ' src={img}   alt="..."/>
-						</div>
-						<h5  className="titleSecond "  >{titleSecond} </h5>
-						<h6 className='precio'>{precio} </h6>
-					
-					</div>
-					</div>
-				</ModalBody>
-
-
-			</>
-
-
-
-			)
-	}
-}
-
-export default ModalMenu
+version https://git-lfs.github.com/spec/v1
+oid sha256:49289cfb3b8f510360658ad37616e0a1649c2dca2e73707bd4fe1554dc23bb44
+size 587
