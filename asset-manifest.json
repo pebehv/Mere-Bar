@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mere-Bar/static/css/main.4199a984.chunk.css",
+    "main.css": "/Mere-Bar/static/css/main.49a88b89.chunk.css",
     "main.js": "/Mere-Bar/static/js/main.f06a601f.chunk.js",
     "main.js.map": "/Mere-Bar/static/js/main.f06a601f.chunk.js.map",
     "runtime-main.js": "/Mere-Bar/static/js/runtime-main.c2f043d4.js",
@@ -10,7 +10,7 @@
     "static/js/2.de8592fa.chunk.js.map": "/Mere-Bar/static/js/2.de8592fa.chunk.js.map",
     "index.html": "/Mere-Bar/index.html",
     "static/css/2.1996eaaf.chunk.css.map": "/Mere-Bar/static/css/2.1996eaaf.chunk.css.map",
-    "static/css/main.4199a984.chunk.css.map": "/Mere-Bar/static/css/main.4199a984.chunk.css.map",
+    "static/css/main.49a88b89.chunk.css.map": "/Mere-Bar/static/css/main.49a88b89.chunk.css.map",
     "static/js/2.de8592fa.chunk.js.LICENSE.txt": "/Mere-Bar/static/js/2.de8592fa.chunk.js.LICENSE.txt",
     "static/media/Screenshot_20210406-235208.40e43371.png": "/Mere-Bar/static/media/Screenshot_20210406-235208.40e43371.png",
     "static/media/Screenshot_20210406-235217.4dbf3251.png": "/Mere-Bar/static/media/Screenshot_20210406-235217.4dbf3251.png",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.c2f043d4.js",
     "static/css/2.1996eaaf.chunk.css",
     "static/js/2.de8592fa.chunk.js",
-    "static/css/main.4199a984.chunk.css",
+    "static/css/main.49a88b89.chunk.css",
     "static/js/main.f06a601f.chunk.js"
   ]
 }
