@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mere-Bar/static/css/main.49a88b89.chunk.css",
-    "main.js": "/Mere-Bar/static/js/main.f06a601f.chunk.js",
-    "main.js.map": "/Mere-Bar/static/js/main.f06a601f.chunk.js.map",
+    "main.js": "/Mere-Bar/static/js/main.f1c3c43d.chunk.js",
+    "main.js.map": "/Mere-Bar/static/js/main.f1c3c43d.chunk.js.map",
     "runtime-main.js": "/Mere-Bar/static/js/runtime-main.c2f043d4.js",
     "runtime-main.js.map": "/Mere-Bar/static/js/runtime-main.c2f043d4.js.map",
     "static/css/2.1996eaaf.chunk.css": "/Mere-Bar/static/css/2.1996eaaf.chunk.css",
@@ -44,6 +44,6 @@
     "static/css/2.1996eaaf.chunk.css",
     "static/js/2.de8592fa.chunk.js",
     "static/css/main.49a88b89.chunk.css",
-    "static/js/main.f06a601f.chunk.js"
+    "static/js/main.f1c3c43d.chunk.js"
   ]
 }
