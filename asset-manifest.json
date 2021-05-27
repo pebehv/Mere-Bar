@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Mere-Bar/static/css/main.4199a984.chunk.css",
-    "main.js": "/Mere-Bar/static/js/main.61c4bf87.chunk.js",
-    "main.js.map": "/Mere-Bar/static/js/main.61c4bf87.chunk.js.map",
+    "main.js": "/Mere-Bar/static/js/main.f06a601f.chunk.js",
+    "main.js.map": "/Mere-Bar/static/js/main.f06a601f.chunk.js.map",
     "runtime-main.js": "/Mere-Bar/static/js/runtime-main.c2f043d4.js",
     "runtime-main.js.map": "/Mere-Bar/static/js/runtime-main.c2f043d4.js.map",
     "static/css/2.1996eaaf.chunk.css": "/Mere-Bar/static/css/2.1996eaaf.chunk.css",
-    "static/js/2.f6f8d599.chunk.js": "/Mere-Bar/static/js/2.f6f8d599.chunk.js",
-    "static/js/2.f6f8d599.chunk.js.map": "/Mere-Bar/static/js/2.f6f8d599.chunk.js.map",
+    "static/js/2.de8592fa.chunk.js": "/Mere-Bar/static/js/2.de8592fa.chunk.js",
+    "static/js/2.de8592fa.chunk.js.map": "/Mere-Bar/static/js/2.de8592fa.chunk.js.map",
     "index.html": "/Mere-Bar/index.html",
     "static/css/2.1996eaaf.chunk.css.map": "/Mere-Bar/static/css/2.1996eaaf.chunk.css.map",
     "static/css/main.4199a984.chunk.css.map": "/Mere-Bar/static/css/main.4199a984.chunk.css.map",
-    "static/js/2.f6f8d599.chunk.js.LICENSE.txt": "/Mere-Bar/static/js/2.f6f8d599.chunk.js.LICENSE.txt",
+    "static/js/2.de8592fa.chunk.js.LICENSE.txt": "/Mere-Bar/static/js/2.de8592fa.chunk.js.LICENSE.txt",
     "static/media/Screenshot_20210406-235208.40e43371.png": "/Mere-Bar/static/media/Screenshot_20210406-235208.40e43371.png",
     "static/media/Screenshot_20210406-235217.4dbf3251.png": "/Mere-Bar/static/media/Screenshot_20210406-235217.4dbf3251.png",
     "static/media/Screenshot_20210406-235230.285ddd66.png": "/Mere-Bar/static/media/Screenshot_20210406-235230.285ddd66.png",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.c2f043d4.js",
     "static/css/2.1996eaaf.chunk.css",
-    "static/js/2.f6f8d599.chunk.js",
+    "static/js/2.de8592fa.chunk.js",
     "static/css/main.4199a984.chunk.css",
-    "static/js/main.61c4bf87.chunk.js"
+    "static/js/main.f06a601f.chunk.js"
   ]
 }
